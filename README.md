@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @donye-west
-- 👀 I’m interested in emulation
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🤠 Howdy, I’m @donye-west
+- I am here for emulation
 
 <!---
 donye-west/donye-west is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
